@@ -17,7 +17,7 @@
 //   , document.querySelector('.container'));
 
 
-const API_KEY = "AIzaSyC-_-0V82vMTwP9Cp73wboRLfD09B6n9HU";
+const API_KEY = "Change Me ";
 
 const App = () => {
     return <div>Hi !!</div>;
